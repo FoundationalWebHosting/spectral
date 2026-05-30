@@ -10,8 +10,8 @@ description: |
 owner: Foundational Web Hosting # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: jacob@foundationalwebhosting.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://foundationalwebhosting.com" # the base hostname & protocol for your site
+baseurl: "/spectral/" # the subpath of your site, e.g. /blog
+url: "https://foundationalwebhosting.github.io/spectral/" # the base hostname & protocol for your site
 social:
   linkedin-square: https://www.linkedin.com/company/foundationalwebhosting/
   youtube-square: https://www.youtube.com/@FoundationalWebHosting
